@@ -1,0 +1,2 @@
+requests>=2.0
+pubnub>=3.5.2
