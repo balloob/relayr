@@ -1,7 +1,13 @@
 Relayr API
 ============
 
-Library for Python 2 and 3 to communicate with the Relayr API. 
+Library for Python 2 and 3 to communicate with the Relayr API.
+
+It currently supports:
+
+ * Connecting to relayr cloud using Oauth
+ * List available devices
+ * Open channels with devices and get sensor readings pushed
 
 Dependencies
 ------------
